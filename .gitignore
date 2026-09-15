@@ -1,0 +1,16 @@
+# Virtual Environment
+venv/
+
+# Python Cache
+__pycache__/
+*.pyc
+
+# Large AI Models (Users will download these using setup_models.py)
+trocr-model-flat/
+trocr-handwritten-flat/
+
+# Large Datasets
+*.csv
+
+# Environment variables (if you add them later)
+.env
